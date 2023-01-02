@@ -1,6 +1,6 @@
 ## Aufgabe
 
-[Diese Seite](https://www.gastromatic.com/de/dienstplan-optimal-gestalten/) nachbauen - siehe Screenshot. Hierzu diese Repository klonen und die `index.tsx` modifizieren. Das Projekt basiert auf Next.js und Typescript. 
+[Diese Seite](https://www.gastromatic.com/de/dienstplan-optimal-gestalten/) nachbauen - siehe Screenshot. Hierzu dieses Repository klonen und die `index.tsx` modifizieren. Das Projekt basiert auf Next.js und Typescript. 
 
 ![Alt text](images/_readme_image.jpg)
 ## Einteilung der Seite in (siehe Screenshot):
